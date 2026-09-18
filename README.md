@@ -1,12 +1,3 @@
-# Webentwicklung - Abgaben
-
-Dieses Repository enthält alle semesterbegleitenden Abgaben für die Lehrveranstaltung im Masterstudiengang **Creative and Human-Centered Technology** an der **FH Technikum Wien**.
-
-**Student:** David Scheucher  
-**Matrikelnummer:** [Deine Matrikelnummer hier einfügen]
-
----
-
 ## 📁 Projektstruktur
 
 Jede Übungsaufgabe ist in einem eigenen, fortlaufend nummerierten Unterordner gekapselt (z.B. `01_Standard`, `02_...`, etc.).  
